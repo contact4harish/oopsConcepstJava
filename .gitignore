@@ -1,0 +1,13 @@
+#for java
+
+
+RemoteSystemsTempFiles
+.classpath
+.project
+*.class
+/bin/
+/target/
+/test-output/
+/./
+/../
+/.settings/
